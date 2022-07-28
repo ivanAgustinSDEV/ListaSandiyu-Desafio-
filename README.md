@@ -1,2 +1,5 @@
+COMANDOS PARA EJECUTAR LA APP DE - LISTAS DESAFIO
+
 1.npm install 
+
 2.ng serve -o
